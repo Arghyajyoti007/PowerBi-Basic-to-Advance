@@ -6,4 +6,4 @@ What's Inside
 - checked the data connectivity 
 - created connection between two tables using common column
 
-And we are getting started with PowerBi! Yay :)
+And we are getting started with PowerBi! Yaay :)
